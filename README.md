@@ -1,4 +1,4 @@
-# Technical Study Notes
+# Study Notes
 
 YOLO·VLM(Vision-Language Model)의 개념 및 아키텍처 비교와, 고전 역학부터 다관절 로봇 공학까지의 Kinematics·Dynamics 핵심 이론을 정리한 기술 노트입니다.
 
